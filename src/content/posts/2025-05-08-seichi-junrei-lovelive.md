@@ -1,10 +1,9 @@
 ---
 title: 圣地巡礼之LoveLive
-published: 2025-05-08
-description: 'Read more about Markdown features in Fuwari'
-image: "https://pic1.imgdb.cn/item/681cc85858cb8da5c8e66eb1.webp"
-tags: [Anime, Travel]
-category: 'Life'
+published: 2025-05-08T21:50:00+08:00
+description: ''
+image: 'https://pic1.imgdb.cn/item/681cc85858cb8da5c8e66eb1.webp'
+category: Life
 ---
 整理一下过去的一些照片，自己觉得挺有意义的。LoveLive的圣地巡礼位置主要是在神田明神、秋叶原、东京DOME、国府津、根府川。
 
